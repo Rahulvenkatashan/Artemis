@@ -1,6 +1,6 @@
 <h1>Artemis</h1>
 <h2>What is it?</h2>
-<p class="quick_info">Ardemis was a grade 11 technology Project, and is a personal assistant. The assistant can tell realtime weather, time, read news, send emails and more. To learn more about the smart assistant please click.</p>
+<p class="quick_info">Ardemis was a grade 11 technology Project, and is a personal assistant. The assistant can tell realtime weather, time, read news, send emails and more.</p>
 <h2>Code review</h2>
 <p>Watch these video's to get a better understanding of how it works and a live demo</p>
 <ol>
